@@ -8,7 +8,8 @@
 ### For buttons: 
 * #5752ab
 * #ffffff
-### For button:
+### Border Colour Hex Code Values:
+## For Button
 * #d7dfe9
 ### For bottom section: 
 * #e6f6ff
